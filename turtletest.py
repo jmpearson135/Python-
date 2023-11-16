@@ -1,0 +1,16 @@
+import turtle
+
+donnie = turtle.Turtle()
+donnie.width(10)
+donnie.speed(1)
+donnie.fd(100)
+donnie.rt(90)
+donnie.fd(100)
+donnie.rt(90)
+donnie.fd(100)
+donnie.rt(90)
+donnie.fd(100)
+donnie.rt(45)
+donnie.fd(70)
+donnie.rt(90)
+donnie.fd(70)
